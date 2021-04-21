@@ -11,7 +11,11 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+<<<<<<< Updated upstream
 System.out.println("hello world");
+=======
+System.out.println("fsajdfhaskjfdh");
+>>>>>>> Stashed changes
 	}
 
 }
